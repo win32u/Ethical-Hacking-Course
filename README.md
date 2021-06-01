@@ -1,6 +1,7 @@
 # Ethical-Hacking-Course
-some Torrent File <br />
-will updated here.. <br />
+some <br />
+Torrent File <br />
+will uploaded here.. <br />
 <br />
 <br />
 1.Ethical Hacking Fundamental Course - Learn From Scratch.torrent <br />
@@ -11,7 +12,7 @@ will updated here.. <br />
 <br />
 <br />
 BONUS  <br />
-.Disable RealTime Protection.reg <br />
+ .Disable RealTime Protection.reg <br />
  <br />
  <br />
  <br />
