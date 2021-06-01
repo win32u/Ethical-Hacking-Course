@@ -1,0 +1,43 @@
+Windows Registry Editor Version 5.00
+
+; Created_By:                           Cyber Security Bangladesh
+; Created_On:                               24th November 2019
+; YouTube:      https://www.youtube.com/channel/UC07k7YlXeHBUYN-pMFv1Whw?view_as=subscriber
+;                                       Use the file extension .reg
+
+
+;DISABLE_ALL_NOTIFICATIONS
+[HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows Defender Security Center\Notifications]
+"DisableNotifications"=dword:00000001
+[HKEY_LOCAL_MACHINE\SOFTWARE\Policies\Microsoft\Windows Defender Security Center\Notifications]
+"DisableNotifications"=dword:00000001
+
+
+
+
+;DISABLE_DEFENDER_ANTI_SPYWARE
+[HKEY_LOCAL_MACHINE\SOFTWARE\Policies\Microsoft\Windows Defender]
+"DisableAntiSpyware"=dword:00000001
+             
+              ;not work
+                ;[HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows Defender]
+                ;"DisableAntiSpyware"=dword:00000001
+
+
+
+
+
+;DISABLE_REALTIME_PROTECTION
+[HKEY_LOCAL_MACHINE\SOFTWARE\Policies\Microsoft\Windows Defender\Real-Time Protection]
+"DisableRealtimeMonitoring"=dword:00000001
+             
+              ;not work
+                ;[HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows Defender\Real-Time Protection]
+                ;"DisableRealtimeMonitoring"=dword:00000001
+
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\Policies\Microsoft\Windows Defender\Real-Time Protection]
+"DpaDisabled"=dword:00000001
+
+
+
