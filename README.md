@@ -1,7 +1,7 @@
 # Ethical-Hacking-Course
-some <br />
+ <br />
 Torrent File <br />
-will uploaded here.. <br />
+will be uploaded here.. <br />
 <br />
 <br />
 1.Ethical Hacking Fundamental Course - Learn From Scratch.torrent <br />
